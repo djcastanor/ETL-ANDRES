@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD", "ODS_SAVIA_SALUD.dtproj", "{72F39F05-AF49-4510-A03D-29FE24E2BC12}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_AU", "..\..\ODS_SAVIA_SALUD_AU\ODS_SAVIA_SALUD_AU\ODS_SAVIA_SALUD_AU.dtproj", "{E12D4E64-E9FA-4E3C-8917-E95803BD2667}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_AC", "..\..\ODS_SAVIA_SALUD_AC\ODS_SAVIA_SALUD_AC\ODS_SAVIA_SALUD_AC.dtproj", "{7922B6A0-73FD-4406-84B4-EE40CEECDC75}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_GR", "..\..\ODS_SAVIA_SALUD_GR\ODS_SAVIA_SALUD_GR\ODS_SAVIA_SALUD_GR.dtproj", "{5C8C9BDB-17EE-4E6C-BA0C-2603CFFFE2FB}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_MI", "..\..\ODS_SAVIA_SALUD_MI\ODS_SAVIA_SALUD_MI\ODS_SAVIA_SALUD_MI.dtproj", "{51E5671E-75B0-4C3F-890D-A425ED210273}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_CR", "..\..\ODS_SAVIA_SALUD_CR\ODS_SAVIA_SALUD_CR\ODS_SAVIA_SALUD_CR.dtproj", "{D2BFE404-11DF-4E42-9EDC-0B77D808B27B}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ODS_SAVIA_SALUD_CT", "..\..\ODS_SAVIA_SALUD_CT\ODS_SAVIA_SALUD_CT\ODS_SAVIA_SALUD_CT.dtproj", "{91451A59-8D6D-4589-B3F8-8E6219CFA0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F39F05-AF49-4510-A03D-29FE24E2BC12}.Development|Default.ActiveCfg = Development
+		{72F39F05-AF49-4510-A03D-29FE24E2BC12}.Development|Default.Build.0 = Development
+		{E12D4E64-E9FA-4E3C-8917-E95803BD2667}.Development|Default.ActiveCfg = Development
+		{E12D4E64-E9FA-4E3C-8917-E95803BD2667}.Development|Default.Build.0 = Development
+		{7922B6A0-73FD-4406-84B4-EE40CEECDC75}.Development|Default.ActiveCfg = Development
+		{7922B6A0-73FD-4406-84B4-EE40CEECDC75}.Development|Default.Build.0 = Development
+		{5C8C9BDB-17EE-4E6C-BA0C-2603CFFFE2FB}.Development|Default.ActiveCfg = Development
+		{5C8C9BDB-17EE-4E6C-BA0C-2603CFFFE2FB}.Development|Default.Build.0 = Development
+		{51E5671E-75B0-4C3F-890D-A425ED210273}.Development|Default.ActiveCfg = Development
+		{51E5671E-75B0-4C3F-890D-A425ED210273}.Development|Default.Build.0 = Development
+		{D2BFE404-11DF-4E42-9EDC-0B77D808B27B}.Development|Default.ActiveCfg = Development
+		{D2BFE404-11DF-4E42-9EDC-0B77D808B27B}.Development|Default.Build.0 = Development
+		{91451A59-8D6D-4589-B3F8-8E6219CFA0D6}.Development|Default.ActiveCfg = Development
+		{91451A59-8D6D-4589-B3F8-8E6219CFA0D6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9823DACF-C31E-4D4C-9CC5-D44C5BA002D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="10.250.0.14.ODS_SAVIA.dcastano"
+  DTS:DTSID="{7D3027C9-10BE-4517-B070-7D0A5F47F022}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=10.250.0.14;User ID=dcastano;Initial Catalog=ODS_SAVIA;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0EQXc58wXkmtsGn/b0pBAgAAAAACAAAAAAADZgAAwAAAABAAAADdUkTDyLidKx94LG3I5RXaAAAAAASAAACgAAAAEAAAAOBa/wOt5oeertxDOeaDeueAAAAAen1JWlHiplZ5eX6bs5HX685gEELJB+RzOzhSvnlwBhq79OgMY1iLCSTcbyx9X4lKrrLqEooWWFq4y1UBdMORbxG7lyULHcfK4lSwZ72p4D4im0ypng2qHQz7Da+XkL8IT75cBjyZc7rIfNO1BRXt0O10zg92n5bO0kArfuMl6swUAAAApijpyqx5UP61NR5NcJGe4+30k/8=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
